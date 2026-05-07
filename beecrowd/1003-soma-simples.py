@@ -18,4 +18,4 @@ B = int(input())
 SOMA = A + B 
 
 # Saída - observe o formato exato no enunciado
-print(f"SOMA = {A + B}")
+print(f"SOMA = {SOMA}")
