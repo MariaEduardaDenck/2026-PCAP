@@ -11,4 +11,4 @@ import random
 numero secreto = random,randint(1, 10)
 
 
-# 2) Pedimos um palpite (input devvolve TEXTO; convertemos para inteiro)
+# 2) Pedimos um palpite (input devolve TEXTO; convertemos para inteiro)
