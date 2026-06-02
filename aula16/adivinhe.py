@@ -8,7 +8,12 @@
 
 import random
 # Sorteamos o número secreto entre 1 e 10
-numero secreto = random,randint(1, 10)
+numero_secreto = random.randint(1, 10)
 
 
 # 2) Pedimos um palpite (input devolve TEXTO; convertemos para inteiro)
+palpite = int(input("Digite um número de 1 a 10: ")) 
+
+# 3) Mostramos o resultado deste primeiro teste 
+print("Você chutou:", palpite)
+print("O número secreto era:", numero_secreto)
