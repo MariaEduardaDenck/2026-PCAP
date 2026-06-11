@@ -13,7 +13,7 @@ numero_secreto = random.randint(1, 10)
 chances = 3 
 acertou = False
 
-# 2) Repetimos enquanto houver chances e nimguém tiver acertando
+# 2) Repetimos enquanto houver chances e ninguém tiver acertando
 while chances = 0 and not acertou:
     palpite = int(input("Digite um número de 1 a 10"))
     if palpite == numero_secreto:
@@ -27,4 +27,4 @@ while chances = 0 and not acertou:
     print("Chances restantes:", chances)
 # 3) Quandoo laço termina, vemos o que aconteceu
 if not acertou: 
-    print("💀 Suas chances acabaram! O número era", numero_secreto)
+    print("💀 Suas chances acabaram! O número era", numero_secreto) 
