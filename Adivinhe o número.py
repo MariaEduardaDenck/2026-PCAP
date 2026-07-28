@@ -14,7 +14,7 @@ chances = 3
 acertou = False
 
 # 2) Repetimos enquanto houver chances e ninguém tiver acertando
-while chances = 0 and not acertou:
+while chances:= 0 and not acertou:
     palpite = int(input("Digite um número de 1 a 10"))
     if palpite == numero_secreto:
         print("🎉 Acertou!")

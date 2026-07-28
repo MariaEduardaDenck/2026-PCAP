@@ -23,7 +23,7 @@ while chances > 0 and not acertou:
     elif palpite < numero_secreto:
         print("📈 Muito baixo! Tente um número maior.")
     else:
-    print("📉 Muito baixo! Tente um número menor.")
+        print("📉 Muito baixo! Tente um número menor.")
     chances = chances - 1 # gasta uma chance 
     print("Chances restantes:", chances)
     return acertou # devolve True (venceu) ou False (perdeu)
