@@ -1,4 +1,3 @@
-'''
 1. Crie diretório revisao == mkdir revisao
 2. Crie um arquivo no diretório revisao com nome revisaoPhyton.py == code
 3. Fundamentos da Programação
@@ -9,12 +8,3 @@
     5. Estrutura de Repetição
     6. estrutura de Condição
     7. Sub-rotinas
-'''
-
-
-
-
-
-
-
-

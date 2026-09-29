@@ -8,8 +8,8 @@
 # ==============================================
 
 # Definição da moldura caracteres e tamanho
-CAR =  '#'
-TAM = 60
+CAR =  '='
+TAM = 40
 
 # Desenha uma linha na tela 
 def linha():
