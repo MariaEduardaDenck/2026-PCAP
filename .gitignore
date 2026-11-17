@@ -1,2 +1,6 @@
 prog-c/*
 !prog-c/*.c
+fliperama-c/*
+!fliperama-c/*.md
+prog-cpp/*
+!prog-cpp/*.cppfliperama-cpp/fliperama
